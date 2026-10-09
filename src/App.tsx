@@ -515,8 +515,6 @@ function App() {
               <strong>
                 Morse Studio
               </strong>
-
-              <span>PRO</span>
             </div>
           </a>
 
@@ -534,7 +532,7 @@ function App() {
             </a>
 
             <a
-              href="https://github.com/"
+              href="https://github.com/Arpitbarnwal0712"
               target="_blank"
               rel="noreferrer"
               className="github-link"
